@@ -15,4 +15,4 @@ Scripts to collect installed softwares from windows domain computers
 
 #. Execute ``check_installed_softwares.bat`` to generate a list of local machine for tests
 
-#. Execute/Schedule the ``check_installed_softwares_loop.bat`` file
+#. Execute/Schedule the ``check_installed_softwares_loop.bat`` file after fill all credentials
