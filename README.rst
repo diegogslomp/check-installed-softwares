@@ -1,7 +1,7 @@
 check-installed-softwares
 =========================
 
-Scripts to collect installed softwares from windows domain computers
+Scripts to collect installed softwares from windows computers
 
 #. Clone this repo
 
