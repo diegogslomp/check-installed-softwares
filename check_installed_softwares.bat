@@ -1,4 +1,3 @@
- 
 @echo off
 REM Create a txt file with installed softwares
 SET output=%computername%.txt

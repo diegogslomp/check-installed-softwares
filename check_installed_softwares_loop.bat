@@ -1,4 +1,3 @@
- 
 @echo off
 REM Loop through a txt file with all computers
 :loop
